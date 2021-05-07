@@ -6,11 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-Armando Angrisani
-PHD student at [Quantum Information Center Sorbonne](https://qics.sorbonne-universite.fr/)
-
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+aaa
 
 # Dark Mode (true/false/never)
 darkmode: false
